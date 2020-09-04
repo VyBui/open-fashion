@@ -1,2 +1,2 @@
-common errors
+Common Errors
 ===========================
