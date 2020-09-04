@@ -141,5 +141,7 @@ linkcheck_ignore = [
 ]
 
 
+httpexample_scheme = 'http'
+
 def setup(app):
     app.add_css_file('css/sphinx_prompt_css.css')
