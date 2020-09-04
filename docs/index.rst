@@ -55,7 +55,8 @@ and some of the core features of Smart Fashion AI.
    :hidden:
    :caption: Getting started
 
-   /upload-model/start-open-pose
-   /upload-model/start-tensorflow-serving
+   /system/start-open-pose
+   /system/start-tensorflow-serving
+   /system/redis-queue
    /upload-model/upload-model-api
    /upload-model/trouble-shouting
