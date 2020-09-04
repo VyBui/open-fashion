@@ -1,6 +1,9 @@
 Upload Model Api
 ============================
 
+** Introduction**:
+------------------
+
 This feature is for users to upload their picture to Smart Fashion AI (SF) project for virtual tryon purpose.
 The api will detect whether the image has standard pose of SF in order for further processing skin and background.
 
