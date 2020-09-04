@@ -21,7 +21,7 @@ Multiple versions |:card_index_dividers:|
     of your docs is as easy as having a separate branch or tag in your version control system.
     Read more about :doc:`/versions`.
 
-.. _Read the docs: https://smartfashion.ai/
+.. open-fashion-docs: https://smartfashion.ai/
 
 
 First steps
@@ -51,7 +51,7 @@ and some of the core features of Smart Fashion AI.
   :doc:`Upload model API </upload-model/upload-model-api>`
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :hidden:
    :caption: Getting started
 
