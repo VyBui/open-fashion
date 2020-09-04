@@ -1,4 +1,4 @@
-Getting Started with Tensor Serving
+Getting Started with TensorFlow Serving
 ===========================
 
 .. meta::
