@@ -1,4 +1,4 @@
-Getting Started with MkDocs
+Getting Started with Tensor Serving
 ===========================
 
 .. meta::
@@ -67,16 +67,3 @@ you can start using Read the Docs by :doc:`importing your docs </intro/import-gu
    We strongly recommend to :ref:`pin the MkDocs version <guides/specifying-dependencies:Specifying Dependencies>`
    used for your project to build the docs to avoid potential future incompatibilities.
 
-
-External resources
-------------------
-
-Here are some external resources to help you learn more about MkDocs.
-
-* `MkDocs documentation`_
-* `Markdown syntax guide`_
-* `Writing your docs with MkDocs`_
-
-.. _MkDocs documentation: https://www.mkdocs.org/
-.. _Markdown syntax guide: https://daringfireball.net/projects/markdown/syntax
-.. _Writing your docs with MkDocs: https://www.mkdocs.org/user-guide/writing-your-docs/

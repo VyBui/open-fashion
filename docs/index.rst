@@ -48,11 +48,14 @@ Learn more about configuring your automated documentation builds
 and some of the core features of Smart Fashion AI.
 
 * **Overview of core features**:
-  :doc:`/upload-model`
+  :doc:`Upload model API </upload-model/upload-model-api>`
 
 .. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Getting started
 
-   /upload-model
+   /upload-model/start-open-pose
+   /upload-model/start-tensorflow-serving
+   /upload-model/upload-model-api
+   /upload-model/trouble-shouting
