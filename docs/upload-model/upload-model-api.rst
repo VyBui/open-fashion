@@ -20,7 +20,7 @@ After all, if none of the error has never occurred the API will return the follo
 1) Upload_model
 ..  code-block:: rst
 
-      .. http:url:: http://localhost:5000/fashion_api/upload_model_client/upload_model
+      .. http:example:: http://localhost:5000/fashion_api/upload_model_client/upload_model
          :method: POST
          :request: {
                       "personImageURL": "public/photo/model/0_1592458708091.JPG",
@@ -42,7 +42,7 @@ After all, if none of the error has never occurred the API will return the follo
 2) Get_upload_model_result_by_job_id
 ..  code-block:: rst
 
-      .. http:url:: http://localhost:5000/fashion_api/upload_model_client/upload_model
+      .. http:example:: http://localhost:5000/fashion_api/upload_model_client/upload_model
          :method: POST
          :request: {
                             "jobId": "a44bfd45-a7c8-402c-87ea-c7f75ae77a4a"
@@ -75,6 +75,14 @@ After all, if none of the error has never occurred the API will return the follo
 - Get upload model skin and background images by job Id:
  >>> from smart_fashion_client.apis.upload_model.logic.human_pose import get_upload_model_result_by_job_id
 
+* Supported tools:
 
+  - curl_
+  - postman_
+  - python-requests_
+
+.. _curl: https://curl.haxx.se/
+.. _postman: https://www.postman.com/
+.. _python-requests: http://docs.python-requests.org/
 
 
