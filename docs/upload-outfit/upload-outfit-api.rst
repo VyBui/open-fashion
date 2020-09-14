@@ -32,7 +32,7 @@ In case of the image has one of the following issue:
                    }
                 }
 2) Get_upload_outfit_by_jobId
-.. http:example:: http://localhost:5000/fashion_api/upload_model_client/upload_model
+.. http:example:: http://localhost:5000/fashion_api/upload_outfit_client/get_upload_outfit_result_by_job_id
      :method: POST
      :request: {
                         "jobId": "a44bfd45-a7c8-402c-87ea-c7f75ae77a4a"
