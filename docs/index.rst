@@ -67,6 +67,11 @@ and some of the core features of Smart Fashion AI.
    :caption: Core Services
 
    /upload-model/upload-model-api
-   /upload-model/trouble-shouting
    /upload-outfit/upload-outfit-api
    /swap/swap-api
+
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Trouble Shooting
+    /upload-model/trouble-shouting
