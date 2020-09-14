@@ -74,4 +74,4 @@ and some of the core features of Smart Fashion AI.
    :maxdepth: 4
    :hidden:
    :caption: Trouble Shooting
-    /upload-model/trouble-shouting
+    /common-errors/trouble-shouting
