@@ -28,7 +28,7 @@ In case of the image has one of the following issue:
                       "outfitSegmentImageURL": "S3_link",
                       "message": "UI message",
                       "statusCode": [200, 400, 422, 500],
-                      "cacheJobId": "3b540f95-1026-44ba-b077-824309b8d2fa" (json)
+                      "jobId": "3b540f95-1026-44ba-b077-824309b8d2fa"
                    }
                 }
 2) Get_upload_outfit_by_jobId
