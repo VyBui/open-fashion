@@ -55,11 +55,17 @@ and some of the core features of Smart Fashion AI.
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: Getting started
+   :caption: Deployment
 
    /system/start-open-pose
    /system/start-tensorflow-serving
    /system/redis-queue
+
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Core Services
+
    /upload-model/upload-model-api
    /upload-model/trouble-shouting
    /upload-outfit/upload-outfit-api
