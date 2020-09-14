@@ -68,16 +68,6 @@ After all, if none of the error has never occurred the API will return the follo
     Redis Server </system/redis-queue>`
 
 
-**How to import the code**:
-----------------------
-
-- Upload upload model output until body points:
- >>> from smart_fashion_client.apis.upload_model.logic.human_pose import load_upload_model_outputs
-
-
-- Get upload model skin and background images by job Id:
- >>> from smart_fashion_client.apis.upload_model.logic.human_pose import get_upload_model_result_by_job_id
-
 * Supported tools:
 
   - curl_
