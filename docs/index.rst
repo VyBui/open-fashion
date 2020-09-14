@@ -48,11 +48,12 @@ Learn more about configuring your automated documentation builds
 and some of the core features of Smart Fashion AI.
 
 * **Overview of core features**:
-  :doc:`Upload model API </upload-model/upload-model-api>`
-  :doc:`Upload outfit API </upload-outfit/upload-outfit-api>`
+  :doc:`Upload model API </upload-model/upload-model-api>` |
+  :doc:`Upload outfit API </upload-outfit/upload-outfit-api>` |
+  :doc:`Swap clothes </swap/swap-api>` |
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
    :caption: Getting started
 
@@ -62,3 +63,4 @@ and some of the core features of Smart Fashion AI.
    /upload-model/upload-model-api
    /upload-model/trouble-shouting
    /upload-outfit/upload-outfit-api
+   /swap/swap-api
